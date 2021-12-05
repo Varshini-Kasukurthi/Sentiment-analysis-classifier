@@ -1,1 +1,1 @@
-# Sentiment-prediction-classifier
+# Sentiment-analysis-classifier
